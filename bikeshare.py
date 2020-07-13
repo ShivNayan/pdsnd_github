@@ -18,11 +18,11 @@ def get_filters():
         (str) day - name of the day of week to filter by, or "all" to apply no day filter
     """
     print('Hello! Let\'s explore some US bikeshare data!')
-    while city == 'chicago' OR 'new york city' OR 'washington':
-        try:
+    #while city == 'chicago' OR 'new york city' OR 'washington':
+        #try:
             city = input("Would you like to see data for Chicago, New york city, or Washington ?")
-    break
-        except:
+    #break
+       # except:
             print('Please enter the correct city name')
             
      
