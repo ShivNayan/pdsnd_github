@@ -5,7 +5,7 @@
 Bikeshare
 
 ### Description
-Analyze and provide insights on US bikeshare data
+Analyze and provide insights on US bikeshare data. Bike share data consists from usage data of 3 different cities Chicago, New York and Washington
 
 ### Files used
 chicago.csv
